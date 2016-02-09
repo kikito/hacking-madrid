@@ -1,5 +1,5 @@
-# Continuous Integration with Lua
+# Hacking Madrid
 
-This is the source code of a presentation about Continuous Integration with Lua.
+This is the source code of a presentation about my work on http://decide.madrid.es .
 
-You can watch it at https://kikito.github.io/ci-with-lua/.
+You can watch it at https://kikito.github.io/hacking-madrid
